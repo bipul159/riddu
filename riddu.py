@@ -183,7 +183,7 @@ class Sex:
         	rndm()
         if Bristy in ["2",'02']:
         #	os.system('xdg-open https://www.facebook.com/Riddu999')
-        if Bristy in ["3",'03']:
+        #if Bristy in ["3",'03']:
         #	os.system('xdg-open https://github.com/Hridoy0777 ')
         if Bristy in ["0",'00']:
         	exit()
